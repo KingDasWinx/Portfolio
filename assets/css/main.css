@@ -10,6 +10,9 @@ html {
     -ms-user-select: none;
     user-select: none;
 }
+.amor {
+    color: red;
+}
 
 body {
     -webkit-user-select: none;
